@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "test",
+      "category": "weekday",
+      "priority": "high",
+      "deadline": "01-04-2022",
+      "description": "This is ridiculous",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "test",
+      "category": "weekday",
+      "priority": "medium",
+      "deadline": "03-04-2022",
+      "description": "This is ridiculous",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "task": "test",
+      "category": "weekday",
+      "priority": "low",
+      "deadline": "01-04-2022",
+      "description": "This is ridiculous",
+      "completed": true
+    }
+  ]
+}
