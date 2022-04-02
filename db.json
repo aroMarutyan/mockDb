@@ -2,28 +2,28 @@
   "tasks": [
     {
       "id": 1,
-      "title": "test",
+      "title": "test1",
       "category": "weekday",
       "priority": "high",
-      "deadline": "01-04-2022",
+      "deadline": "2022-04-06",
       "description": "This is ridiculous",
       "completed": false
     },
     {
       "id": 2,
-      "title": "test",
+      "title": "test2",
       "category": "weekday",
       "priority": "medium",
-      "deadline": "03-04-2022",
+      "deadline": "2022-04-01",
       "description": "This is ridiculous",
       "completed": false
     },
     {
       "id": 3,
-      "title": "test",
+      "title": "test3",
       "category": "weekday",
       "priority": "low",
-      "deadline": "01-04-2022",
+      "deadline": "2022-04-12",
       "description": "This is ridiculous",
       "completed": true
     }
