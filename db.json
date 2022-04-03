@@ -2,30 +2,39 @@
   "tasks": [
     {
       "id": 1,
-      "title": "test1",
-      "category": "weekday",
+      "title": "Buy TP",
+      "category": "Weekday",
       "priority": "high",
-      "deadline": "2022-04-06",
-      "description": "This is ridiculous",
-      "completed": false
+      "deadline": "2022-04-08",
+      "description": "...",
+      "completed": true
     },
     {
       "id": 2,
-      "title": "test2",
+      "title": "Go to dentist",
       "category": "weekday",
-      "priority": "medium",
+      "priority": "High",
       "deadline": "2022-04-01",
-      "description": "This is ridiculous",
+      "description": "Hate to do it, but it's a must",
       "completed": false
     },
     {
       "id": 3,
-      "title": "test3",
-      "category": "weekday",
-      "priority": "low",
-      "deadline": "2022-04-12",
-      "description": "This is ridiculous",
+      "title": "Practice juggling",
+      "category": "Weekend",
+      "priority": "Medium",
+      "deadline": "",
+      "description": "Good for the brain!",
       "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Plan via ferratta",
+      "category": "Weekend",
+      "priority": "High",
+      "deadline": "2022-04-06",
+      "description": "It's been more than a year...",
+      "completed": false
     }
   ]
 }
